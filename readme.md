@@ -1,6 +1,6 @@
 <p align="center">
     <img src="https://github.com/rose-pine/rose-pine-theme/raw/main/assets/icon.png" width="80" />
-    <h2 align="center">Rosé Pine for App</h2>
+    <h2 align="center">Rosé Pine for <a href="https://github.com/thatonecalculator/discordrpcmaker">Discord RPC Maker</a> </h2>
 </p>
 
 <p align="center">All natural pine, faux fur and a bit of soho vibes for the classy minimalist</p>
@@ -13,23 +13,22 @@
 
 ## Usage
 
-1. Open App
-2. Under settings, import `rose-pine.theme`
-3. Select `Rosé Pine` from the themes dropdown
+###### Good news, all Rosé Pine variants are included by default!
+1. Open Discord RPC Maker
+2. Hit the settings icon (gear in the bottom left)
+3. Select any of the Rosé Pine variants from the themes dropdown
 
 ## Gallery
 
-![Rosé Pine with App](assets/template.png)
+Rosé Pine
+![image](https://user-images.githubusercontent.com/44733677/116031060-c6821200-a611-11eb-8f3d-e4b7f4ba668e.png)
+
+Rosé Pine Moon
+![image](https://user-images.githubusercontent.com/44733677/116031074-d00b7a00-a611-11eb-92ba-c0e7f4e7c69a.png)
+
+Rosé Pine Dawn
+![image](https://user-images.githubusercontent.com/44733677/116031087-d8fc4b80-a611-11eb-9d60-6e6174c1021c.png)
 
 ## Thanks to
 
-- [You, it's you!](https://github.com/<username>)
-
-## Style guide
-
-> Be sure to remove this section 😌
-
-- Lowercase meta files, eg. `readme.md`
-- Repo name should be the simplest version of the app name, eg. iterm instead of iTerm2
-- Format repo description as "Soho vibes for App"
-- Generate and upload social image via [Rosé Pine Images](https://rose-pine-images.vercel.app)
+- [ThatOneCalculator](https://github.com/thatonecalculator)
