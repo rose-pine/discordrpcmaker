@@ -32,3 +32,6 @@ Rosé Pine Dawn
 ## Thanks to
 
 - [ThatOneCalculator](https://github.com/thatonecalculator)
+
+## Note
+Included are the 3 CSS files used in the original program.
